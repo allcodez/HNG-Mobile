@@ -13,7 +13,7 @@ A React Native mobile app linking to the GitHub repository and HNG Hire Pages.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Mobile-Desktop-Stage-0.git
-   cd Mobile-Desktop-Stage-0/mobile-app
+   cd Mobile-Desktop-Stage-0
 
 
 
